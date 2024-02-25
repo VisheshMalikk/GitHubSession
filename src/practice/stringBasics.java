@@ -8,6 +8,7 @@ public class stringBasics {
 		
 		String timeStamp = new SimpleDateFormat("MM/dd/yyy KK:mm a").format(new java.util.Date());
 		System.out.println(timeStamp);
+		System.out.println("Vishesh Malik");
 	}
 
 }
